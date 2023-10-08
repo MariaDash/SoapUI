@@ -1,4 +1,4 @@
-# SoapUI Homework
+# Working with SoapUI 
 Attach screenshots and descriptions of checks of one positive and one negative test in the Soap UI program to check the doRegister method, which creates a new user. The username must be unique. Mail Format
 email@example.com
 ### [WSDL](https://github.com/MariaDash/SoapUI/blob/main/WrapperSoapServer.xml)
